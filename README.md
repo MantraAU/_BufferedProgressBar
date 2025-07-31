@@ -77,14 +77,13 @@ Func _BufferedProgressBar_Update(
 
 ## License
 
-This code is dedicated to the public domain under **The Unlicense**. See [UNLICENSE](UNLICENSE) for details.
+This code is dedicated to the public domain under **The Unlicense**. See [UNLICENSE](LICENCE) for details.
 
 ---
 
 ## Roadmap
 
 - **Vertical progress bar support** – coming soon.
-- Potentially: custom corner rounding, gradient fills, and label text overlay.
 
 ---
 
