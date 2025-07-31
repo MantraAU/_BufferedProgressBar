@@ -77,7 +77,7 @@ Func _BufferedProgressBar_Update(
 
 ## License
 
-This code is dedicated to the public domain under **The Unlicense**. See [UNLICENSE](LICENCE) for details.
+This code is dedicated to the public domain under **The Unlicense**.
 
 ---
 
